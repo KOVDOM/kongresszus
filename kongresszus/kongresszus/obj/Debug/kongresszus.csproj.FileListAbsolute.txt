@@ -1,0 +1,9 @@
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\bin\Debug\eloadasok.txt
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\bin\Debug\kongresszus.exe.config
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\bin\Debug\kongresszus.exe
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\bin\Debug\kongresszus.pdb
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\obj\Debug\kongresszus.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\obj\Debug\kongresszus.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\obj\Debug\kongresszus.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\obj\Debug\kongresszus.exe
+C:\Users\kovdo\source\repos\kongresszus\kongresszus\obj\Debug\kongresszus.pdb
